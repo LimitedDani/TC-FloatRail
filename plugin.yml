@@ -1,0 +1,6 @@
+name: TCFloatRail
+main: nl.limited_dani.waterrail.TCFloatRail
+version: 1.1
+authors: [bergerkiller, lenis0012, timstans, Limited_Dani]
+description: Add-on for TrainCarts that allows specific Blocks to perform certain actions
+depend: [Train Carts]

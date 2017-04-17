@@ -1,4 +1,4 @@
-package nl.limited_dani.waterrail;
+package nl.limited_dani.tcfloatrail;
 
 import org.bukkit.block.BlockFace;
 import org.bukkit.util.Vector;
